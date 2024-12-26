@@ -1,0 +1,57 @@
+.display{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.imageAdj{
+    height: 70px;
+    width: 60px;
+}
+.btnAdj{
+    border: none;
+    border-radius: 10px;
+    background-color: #062951;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-weight: 500;
+    font-size: 19px;
+    padding: 8px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.empName{
+    font-family: Lato;
+    font-weight: 800;
+    font-size: 46px;
+    color: #FF6445;
+    text-transform:capitalize;
+}
+.mainBtn{
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainDivOne{
+ margin-right: 30px;
+ padding: 30px;
+ color: #FFFFFF;
+ font-family: Lato;
+ font-size: 30px;
+ font-weight: 800;
+ background-color: #FF6445;
+ border-radius: 15px;
+}
+.mainDivTwo{
+    margin-left: 30px;
+    padding: 30px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+    background-color: #062951;
+    border-radius: 15px;
+}

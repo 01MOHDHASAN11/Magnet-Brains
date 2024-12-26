@@ -1,0 +1,36 @@
+.posForm{
+    margin-left: 40%;
+    margin-top: 8%;
+}
+.btnPosition{
+ margin-top: 40px;
+ margin-left: 20%
+}
+.btnOne{
+    border: none;
+    border-radius: 10px;
+    background-color: #062951;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-weight: 500;
+    font-size: 19px;
+    padding: 8px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 5px;
+}
+.btnTwo{
+    border: none;
+    border-radius: 10px;
+    background-color: #FF6445;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-weight: 500;
+    font-size: 19px;
+    padding: 8px;
+    padding-left: 10px;
+    padding-right: 14px;
+    margin-left: 30px;
+    border-radius: 5px;
+
+}
